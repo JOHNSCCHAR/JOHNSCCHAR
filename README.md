@@ -9,7 +9,7 @@
 
 ## 🧑‍💻 Sobre Mí
 
-Estudiante de **Desarrollo de Software** (últimos ciclos en SISE) respaldado por **más de 7 años de experiencia profesional** en soporte técnico, back office, administración de datos operacionales y resolución de incidencias en entornos BPO y tecnológicos[cite: 1].
+Estudiante de **Desarrollo de Software** (últimos ciclos en SISE) respaldado por **más de 7 años de experiencia profesional** en soporte técnico, back office, administración de datos operacionales y resolución de incidencias en entornos BPO y tecnológicos.
 
 ---
 
@@ -40,9 +40,9 @@ Estudiante de **Desarrollo de Software** (últimos ciclos en SISE) respaldado po
 
 ## 📂 Proyectos Destacados
 
-* 🌐 **MenuExpress - Plataforma Digital para Restobares:** API REST y frontend responsivo desarrollado con Java, Spring Boot, Spring Data JPA, MySQL, Thymeleaf y Bootstrap[cite: 1].
-* 🗄️ **Sistema Central SOA con WCF (Proyecto SISE):** Arquitectura orientada a servicios utilizando WCF en .NET y C# para la sincronización de bases de datos distribuidas con control de logs en XML/JSON y Windows Forms[cite: 1].
-* 📦 **VetCare S.A.C. - Control de Inventario:** Sistema de gestión de almacén con alertas de stock mínimo y reportes automáticos conectados a SQL Server[cite: 1].
+* 🌐 **MenuExpress - Plataforma Digital para Restobares:** API REST y frontend responsivo desarrollado con Java, Spring Boot, Spring Data JPA, MySQL, Thymeleaf y Bootstrap.
+* 🗄️ **Sistema Central SOA con WCF (Proyecto SISE):** Arquitectura orientada a servicios utilizando WCF en .NET y C# para la sincronización de bases de datos distribuidas con control de logs en XML/JSON y Windows Forms.
+* 📦 **VetCare S.A.C. - Control de Inventario:** Sistema de gestión de almacén con alertas de stock mínimo y reportes automáticos conectados a SQL Server.
 
 ---
 
@@ -60,6 +60,6 @@ Estudiante de **Desarrollo de Software** (últimos ciclos en SISE) respaldado po
 ---
 
 ## 📬 Contacto
-* 📧 **Correo:** johncarhuaching@gmail.com[cite: 1]
-* 📱 **Teléfono:** +51 999 487 059[cite: 1]
-* 📍 **Ubicación:** Lima, Perú[cite: 1]
+* 📧 **Correo:** johncarhuaching@gmail.com
+* 📱 **Teléfono:** +51 999 487 059
+* 📍 **Ubicación:** Lima, Perú
